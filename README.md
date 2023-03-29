@@ -29,7 +29,7 @@ Huffman Coding is an algorithm used for compressing data to reduce its size with
 
 # And now the Playground
 
-The HuffEncoder app is for iOS and the goal is to compress and decompress a selected .txt file, using the Huffman Coding Algorithm.
+The **HuffEncoder** app is for iOS and the goal is to compress and decompress a selected .txt file, using the Huffman Coding Algorithm.
 
 App Icon made by me:
 
